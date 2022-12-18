@@ -1,0 +1,5 @@
+com\example\demo\controller\FibonacciController.class
+com\example\demo\service\Fibonacii.class
+com\example\demo\model\Element.class
+com\example\demo\OrcaleAccessmentApplication.class
+com\example\demo\model\Result.class

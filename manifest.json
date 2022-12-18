@@ -1,0 +1,13 @@
+{
+    "runtime":{
+        "majorVersion":"7"
+    },
+    "type":"web",
+    "command":"java -jar OrcaleAccessment-0.0.1-SNAPSHOT.jar",
+    "release":{
+        "build":"2022",
+        "commit":"orcale cloud",
+        "version":"0.0.1-SNAPSHOT"
+    },
+    "notes":"REST Spring boot Orcale Cloud"
+}
